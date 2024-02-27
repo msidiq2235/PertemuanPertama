@@ -16,6 +16,8 @@ int main()
     nLuas = 3.14 * nJejari * nJejari;
     //display 'Luasnya ' + nLuas
     cout << "Luasnya =" << nLuas << endl;
+
+    tes
    
     
 
